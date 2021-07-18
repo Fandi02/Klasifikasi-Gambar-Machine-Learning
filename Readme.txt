@@ -1,0 +1,1 @@
+Klasifikasi Gambar Gunting, Batu, Kertas penerapan dari Machine Learning menggunakan bahasa Python
